@@ -1,0 +1,141 @@
+body {
+	font-family: sans-serif;
+}
+
+
+#map-container {
+
+  background-image:url(schoolmap.jpg);
+  position: absolute;
+  width:900px;
+  height:100%;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+
+}
+
+.place img {
+    width: 15px;
+    float: left;
+}
+
+.place {
+	font-size: 8px;
+	position: absolute;
+	background-color: white;
+	padding: 5px;
+	width: 90px;
+	border-radius: 3px;
+}
+
+.classroom {
+	background-color: #EEE;
+}
+
+.recreation {
+	background-color: #EAE;
+}
+
+.secretlocation {
+	background-color: #AEE;
+}
+
+#menubox {
+	position: absolute;
+	top:20px;
+	left: 20px;
+	background-color: white;
+	padding: 10px;
+	border-radius: 5px;
+
+
+}
+
+.visible {
+	visibility: visible;
+}
+
+
+.invisible {
+	visibility: hidden;
+}
+
+
+#place1 {
+	left:350px;
+	top:20px;
+}
+
+
+
+#place2 {
+	left:50px;
+	top:230px;
+}
+
+
+
+#place3 {
+	left:320px;
+	top:230px;
+}
+
+
+#place4 {
+	left:550px;
+	top:230px;
+}
+
+
+#place5 {
+	left:570px;
+	top:100px;
+}
+
+#place6 {
+	left:320px;
+	top:80px;
+}
+
+
+#place7 {
+	left:260px;
+	top:150px;
+}
+
+
+#place8 {
+	left:370px;
+	top:190px;
+}
+
+
+#place9 {
+	left:240px;
+	top:290px;
+}
+
+
+
+#place10 {
+	left:40px;
+	top:330px;
+}
+
+#place11 {
+	left:430px;
+	top:230px;
+}
+
+
+#place12 {
+	left:210px;
+	top:230px;
+}
+
+
+#place13 {
+	left:710px;
+	top:20px;
+}
+
